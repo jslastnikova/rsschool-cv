@@ -1,6 +1,6 @@
 Slastnikova Julija
 --------------------------------------------------------
-![photo-cv](/home/Pomidorka/photo-cv.jpg "фото для cv")
+<image src="/home/Pomidorka/photo_cv.jpg" alt="Photo by CV">
 
 **Contacts**
 
