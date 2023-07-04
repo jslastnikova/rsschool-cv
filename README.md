@@ -1,2 +1,2 @@
-https://jslastnikova.github.io/rsschool-cv-2/cv
-https://jslastnikova.github.io/rsschool-cv-2
+https://jslastnikova.github.io/rsschool-cv/cv
+https://jslastnikova.github.io/rsschool-cv
